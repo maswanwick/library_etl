@@ -19,6 +19,6 @@ The high-level workflow of this project consists of the following:
 
 Limitations:
 
-* The data being returned is limited to a local branch, in book format, in the mystery genere.  Loading up the entire library's card catelog would have been feasible, but also time and resource intensive.
+* The data being returned is limited to a local branch, in book format, in the mystery genere.  Loading up the entire library's card catalog would have been feasible, but also time and resource intensive.
 * The data model only focuses on the book's title, description, author, and availability status.  There are many more fields returned with the API request that could have been captured/modeled.
 
